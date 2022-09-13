@@ -18,6 +18,7 @@ public class Exceptioncommitdemo {
 	public static void main(String[] args) throws Exception {
 		
 		checkException(9);
+		System.out.println("This is first commited project");
 	}
 
 }
